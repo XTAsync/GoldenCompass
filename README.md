@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="GoldenCompass logo" width="180" />
+</p>
+
 # Golden Compass
 
 A mobile investment-app prototype exploring portfolio dashboards, investment pools, transaction history, identity verification, and an AI-assisted financial navigation experience.
